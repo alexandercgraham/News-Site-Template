@@ -1,0 +1,9 @@
+<header_image><img src="media/a.jpg"></header_image>
+<title>заглавие 3</title>
+<headline>Заголовок 3</headline>
+<content>содержание 3
+<img src="media/a.jpg">
+содержание... ... ...
+содержание... ... ...
+содержание... ... ...
+</content>

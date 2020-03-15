@@ -1,0 +1,9 @@
+<header_image><img src="media/a.jpg"></header_image>
+<title>titre 3</title>
+<headline>gros titre 3</headline>
+<content>contenu 3
+<img src="media/a.jpg">
+contenu... ... ...
+contenu... ... ...
+contenu... ... ...
+</content>
